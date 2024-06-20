@@ -1,0 +1,24 @@
+#pregunta 1:
+El cambio climatico es un cambio drastico de la temperatura que es causado por los combustibles fósiles (carbón, petróleo y gas) ya que son,
+con diferencia, los que más contribuyen al cambio climático mundial, ya que representan más del 75 % de las emisiones mundiales de gases de efecto invernadero y 
+casi el 90 % de todas las emisiones de dióxido de carbono. Tambien por la genberación de energía, la tala de arboles, el uso del transporte, el uso excesivo, entre otras.
+Este provoca que las temperaturas se eleven haciendo que, a su vez, se produzcan más sequías provocando que haya falta de alimentos, hayan mas tormentas, aumente el nivel del mar, desaparezcan especies, etc.
+
+#pregunta2
+Si, porque ademas de los puntos que mencionados, tambien lentamente la temperatura va aumentando mas de lo normal provocando todos los problemas mencionados los cuales afectan a todas partes del mundo.
+
+#pregunta3
+es causado por los combustibles fósiles (carbón, petróleo y gas) ya que son,
+con diferencia, los que más contribuyen al cambio climático mundial, ya que representan más del 75 % de las emisiones mundiales de gases de efecto invernadero y 
+casi el 90 % de todas las emisiones de dióxido de carbono. Tambien por la genberación de energía, la tala de arboles, el uso del transporte, el uso excesivo, entre otras.
+
+#pregunta4
+La ciencia nos dice que el cambio climático es irrefutable, pero también nos dice que no es demasiado tarde para detener su avance. 
+Si bien la tecnología ha contribuido al cambio climático, las tecnologías nuevas y eficientes pueden ayudarnos a reducir las emisiones netas y a crear un mundo más limpio; ya hay soluciones tecnológicas disponibles para más del 70 % de las emisiones actuales. 
+En muchos lugares, la energía renovable es la fuente de energía más barata y los coches eléctricos están a punto de generalizarse.
+Con esas soluciones escalables todos podremos dar el salto a un mundo más limpio y resistente. Si los gobiernos, las empresas, la sociedad civil, los jóvenes y el mundo académico trabajan juntos, 
+podemos crear un futuro verde en el que haya menos sufrimiento, reine la justicia y se restablezca la armonía entre las personas y el planeta.
+
+#idea
+Hacer una pagina web con un formulario con preguntas sobre algunas cosas como en que llega al trabajo el usuario o si usa mucha electricidad o si tira basura y en base a eso dar una respuesta y un consejo para apoyar a la causa en caso que la accion hiciera lo contrario.
+Con esto, se lograría concientizar a la gente sobre el tremendo impacto que tiene el cambio climatico sobre la sociedad y el mundo
