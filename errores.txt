@@ -1,0 +1,4 @@
+1#Me apareció un error en las rutas
+era porque puse la misma funcion dos veces
+2#No cargaba el style del css
+Tuve que llamar al css de otra forma porque la que usaba daba error por la cantidad de rutas que había en el código
