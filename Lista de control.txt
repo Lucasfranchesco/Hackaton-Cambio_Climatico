@@ -1,0 +1,45 @@
+#Funcionalidad
+(Es el más importante)
+Verificar que esten todas las rutas de todos los HTML
+No ocurra ningun error con las rutas de acceso:
+Que pase a la siguiente pagina
+Si hay error, hay que revisar las funciones y variables
+
+No haya errores con variables:
+Que se nombren todas las variables
+Que se llamen todas las variables
+
+No haya errores con las funciones:
+No haya funciones duplicadas
+Que adentro esten todas las variables
+Que llame al HTML correspondiente
+
+
+#Interfaz
+(El que sigue a la funcionalidad en importancia)
+Que todas las imagenes se cargen correctamente:
+Que no esten dañadas
+Que se vean bien
+Que tenga que ver con el apartado
+
+Que el texto este correcto:
+Tenga un tamaño agradable
+Un color con el que se pueda leer
+Que este bien insertado junto al resto de la pagina
+
+Que el fondo sea agradable:
+sus colores combinen
+que dentro de lo posible tengan que ver con la tematica de la pagina
+
+#Experiencia del usuario
+(El menos importante pero que tambien importa)
+Que no se le haga largo:
+Que piense un poco y a responda
+Que le sea dinamico
+
+Que pueda entender las preguntas
+
+Que le agrade la paleta de colores:
+Que le permite ver los elementos de la página
+
+Que entienda los consejos y recomendaciones
