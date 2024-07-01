@@ -6,3 +6,5 @@ Tuve que llamar al css de otra forma porque la que usaba daba error por la canti
 s
 3# Me apareció un error con las funciones
 Había nombrado dos funciones con el mismo nombre
+
+4# Me apareció una imagen dañada
