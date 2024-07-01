@@ -1,6 +1,6 @@
-#Funcionalidad
+#Funcionalidad (Hecho)
 (Es el más importante)
-Verificar que esten todas las rutas de todos los HTML
+Verificar que esten todas las rutas de todos los HTML 
 No ocurra ningun error con las rutas de acceso:
 Que pase a la siguiente pagina
 Si hay error, hay que revisar las funciones y variables
@@ -15,7 +15,7 @@ Que adentro esten todas las variables
 Que llame al HTML correspondiente
 
 
-#Interfaz
+#Interfaz (En proceso)
 (El que sigue a la funcionalidad en importancia)
 Que todas las imagenes se cargen correctamente:
 Que no esten dañadas
@@ -31,7 +31,7 @@ Que el fondo sea agradable:
 sus colores combinen
 que dentro de lo posible tengan que ver con la tematica de la pagina
 
-#Experiencia del usuario
+#Experiencia del usuario (En proceso)
 (El menos importante pero que tambien importa)
 Que no se le haga largo:
 Que piense un poco y a responda
