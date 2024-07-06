@@ -7,4 +7,7 @@ Autor: Lucas Franchi
 
 ## Funcionamiento del proyecto
 ![image](https://github.com/Lucasfranchesco/Hackaton-Cambio_Climatico/assets/153239784/2ecdcfe3-4328-40c2-80bb-413884da8b15)
-#En esta imagen podemos ver un ejemplo de como se ve la pagina, a continuacion, cuando aparece la pregunta a su vez apareceran algunas opciones. Lo que hay que hacer es hacer click en una de ellas y allí automaticamente aparecera la siguiente pregunta
+#En esta imagen podemos ver un ejemplo de como se ve la pagina, a continuacion, cuando aparece la pregunta a su vez apareceran algunas opciones. Lo que hay que hacer es hacer click en una de ellas y allí automaticamente aparecera la siguiente pregunta.
+
+## Instalacion 
+# Para instalar el archivo lo que hay que hacer primero es instalar todos los archivos que estan el github(main.py, carpetas)
