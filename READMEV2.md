@@ -16,4 +16,4 @@ Por ultimo, faltaria descargar las librerías del documento "requirements.txt"
 Ahora solo tiene que ejecutarlo y ya estaría
 
 ## Conclusion
-# La pagina se propone a que la gente se de cuenta de las consecuencias que conlleva lasacciones que hace y que puedan cambiarlas para bien. Ese es su principal y único uso.
+La pagina se propone a que la gente se de cuenta de las consecuencias que conlleva lasacciones que hace y que puedan cambiarlas para bien. Ese es su principal y único uso.
