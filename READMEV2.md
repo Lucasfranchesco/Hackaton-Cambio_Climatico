@@ -10,4 +10,10 @@ Autor: Lucas Franchi
 #En esta imagen podemos ver un ejemplo de como se ve la pagina, a continuacion, cuando aparece la pregunta a su vez apareceran algunas opciones. Lo que hay que hacer es hacer click en una de ellas y allí automaticamente aparecera la siguiente pregunta.
 
 ## Instalacion 
-# Para instalar el archivo lo que hay que hacer primero es instalar todos los archivos que estan el github(main.py, carpetas)
+# Para instalar el archivo lo que hay que hacer primero es instalar todos los archivos que estan el github(main.py, carpetas css, img y HTML)
+# luego es necesario cargarlo en el visual studio code
+# Por ultimo, faltaria descargar las librerías del documento "requirements.txt"
+# Ahora solo tiene que ejecutarlo y ya estaría
+
+## Conclusion
+# La pagina se propone a que la gente se de cuenta de las consecuencias que conlleva lasacciones que hace y que puedan cambiarlas para bien. Ese es su principal y único uso.
