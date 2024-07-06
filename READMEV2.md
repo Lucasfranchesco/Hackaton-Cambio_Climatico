@@ -1,5 +1,5 @@
 ## Cuestionario sobre el Cambio Climatico
-# Este cuestionario trata sobre preguntas relacionados a actividades u opiniones que hacemos en el día a día que tienen un efecto negativo en su mayoria hacia el cambio climatico y que al final aparezcan unos consejos para poder apoyar contra el cambio climatico
+Este cuestionario trata sobre preguntas relacionados a actividades u opiniones que hacemos en el día a día que tienen un efecto negativo en su mayoria hacia el cambio climatico y que al final aparezcan unos consejos para poder apoyar contra el cambio climatico
 Autor: Lucas Franchi
 
 ## Finalidad
